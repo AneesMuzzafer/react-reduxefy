@@ -9,7 +9,8 @@
  */
 
 import React from "react";
-import { ReduxContext } from "./hook";
+
+export const ReduxContext = React.createContext();
 
 export const Provider = ({ store, children }) => {
     return (

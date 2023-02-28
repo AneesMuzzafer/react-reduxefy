@@ -8,9 +8,9 @@
  *
  */
 
-import React from "react"
+import React from "react";
 
-export const ReduxContext = React.createContext();
+import { ReduxContext } from "./Provider.jsx";
 
 export const useDispatch = () => {
     const store = React.useContext(ReduxContext);
