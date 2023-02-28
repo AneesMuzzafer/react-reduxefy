@@ -1,15 +1,16 @@
 # React Reduxefy
 
-**React Reduxefy** is the perfect companion for [**Reduxefy**](https://www.npmjs.com/package/reduxefy), a lightweight and simplified implementation of Redux. With **React Reduxefy**, you can easily connect your React components to your Reduxefy store, making state management in your React app a breeze.
+**React Reduxefy** is the perfect companion for [**Reduxefy**](https://www.npmjs.com/package/reduxefy), a lightweight and simplified implementation of Redux. With it, you can easily connect your React components to your Reduxefy store, making state management in your React app a breeze.
 
 Be sure to check out [**Reduxefy**](https://www.npmjs.com/package/reduxefy) to learn more about why this package exists.
 
 ## Installation
 
-You can install via npm by running
+You can install it via npm by running:
 
 ```bash
     npm install react-reduxefy reduxefy
+
     # Note that you'll need Reduxefy as well, as that provides the core state management functionality.
 ```
 
