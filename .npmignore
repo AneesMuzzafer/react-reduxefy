@@ -1,2 +1,4 @@
-examples
+.gitignore
+.npmignore
 node_modules
+examples
